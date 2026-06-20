@@ -6,7 +6,7 @@ My personal solutions to the CSES Problem Set, focusing on optimized algorithms 
 A personal repository containing my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/). 
 
 ### Overview
-This repo serves as an archive of my competitive programming progress. The solutions are primarily written in **[Insert Language, e.g., C++ / Python / Java]** and focus on clarity, optimal time complexity, and memory efficiency. 
+This repo serves as an archive of my competitive programming progress. The solutions are primarily written in **[C++/Python]** and focus on clarity, optimal time complexity, and memory efficiency. 
 
 ### Structure
 The solutions are organized into folders based on the official CSES categories:
